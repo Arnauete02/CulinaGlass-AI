@@ -1,0 +1,7 @@
+{
+  "name": "CulinaGlass AI",
+  "description": "Una plataforma gourmet de recetas con interfaz Glassmorphism que utiliza IA para guiarte en cada paso de tu aventura culinaria.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
